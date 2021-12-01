@@ -1,0 +1,4 @@
+car auto
+house talo
+mies man
+sun aurinko
